@@ -13,4 +13,5 @@ for x in range(100):
         continue
     print(x)
 ```
+### Output of the program
 ![img.png](img.png)
